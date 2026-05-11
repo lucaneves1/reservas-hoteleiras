@@ -108,5 +108,3 @@ As métricas de receita usam filtros explícitos:
 ## Sobre
 
 Projeto desenvolvido como parte do meu portfólio de Análise de Dados.
-
-**Luca** — estudante de Engenharia de Software (INFNET), foco em Sistemas Complexos. Mirando posição de Analista de Dados Pleno até 2029.
